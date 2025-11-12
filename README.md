@@ -66,7 +66,7 @@ plt.show()
 
 ```
 ## Output:
-<img width="1409" height="157" alt="Screenshot 2025-11-12 140431" src="https://github.com/user-attachments/assets/830324c4-252d-4656-aaf9-c356cc482424" />
+<img width="1259" height="959" alt="Screenshot 2025-11-12 141038" src="https://github.com/user-attachments/assets/be383f7d-c0d9-445c-8da9-f9b23a300d2a" />
 
 
 ## Result
